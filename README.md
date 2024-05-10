@@ -4,3 +4,6 @@ nele incluí todos os heróis da Marvel como:
 # Homem-Aranha;
 # Capitão América; 
 # Homem de Ferro;
+# Thor;
+# Hulk e etc..
+Obrigado! <3
