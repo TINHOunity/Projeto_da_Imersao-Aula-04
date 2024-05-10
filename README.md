@@ -1,6 +1,6 @@
 # Projeto_da_Imersao-Aula-04
 Projeto da Imersão IA da Alura! O meu código foi feito para ser usado como buscador de quadrinhos da Marvel, usando o Gemini.
-nele incluí todos os heróis da Marvel como por exemplo:
+Nele incluí todas as famosas HQ's, como por exemplo:
 # Homem-Aranha;
 # Capitão América; 
 # Homem de Ferro;
